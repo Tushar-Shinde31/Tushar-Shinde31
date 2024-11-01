@@ -1,16 +1,32 @@
-## Hi there 👋
+Tushar Shinde 🌟
+A Programming Enthusiast 💫
 
-<!--
-**Tushar-Shinde31/Tushar-Shinde31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
+🔭 I’m currently working on TravelWorld 🌎
+🌱 I’m currently diving into Machine Learning and AI concepts
+👨‍💻 All of my projects are available at my GitHub Portfolio
+💬 Ask me about ReactJS, NodeJS, and Next.js
+📫 Reach me at tusharshinde2250@gmail.com
+📄 Know about my experiences in my Resume
+⚡ Fun fact: I love combining art and code 🎨💻
+🌐 Connect with Me:
+LinkedIn | Medium | X (Twitter)
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+Languages & Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: C, C++, Python, JavaScript, TypeScript, Dart
+Frameworks: React, Next.js, Django, NodeJS, Express, Flutter, TailwindCSS, Bootstrap, MUI
+Development Tools
+
+Version Control: Git, GitHub, GitLab CI, GitHub Actions
+IDEs & CI/CD: Gitpod, Docker, Notion, Jira
+Backend & Databases
+
+Databases: MongoDB, MySQL, PlanetScale, PostgreSQL, Prisma
+Hosting & Cloud: AWS, Vercel, Render, Firebase, Heroku, Netlify
+Others
+
+Tools: Postman, Figma, OpenCV, Raspberry Pi, Sketch
+🎨 Creative Side:
+Playing musical instruments 🎶 | Sketching 🎨 | Singing 🎤
