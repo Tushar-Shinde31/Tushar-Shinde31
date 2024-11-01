@@ -4,14 +4,14 @@ A Programming Enthusiast 💫
 💫 About Me:
 - 🔭 I’m currently working on **TravelWorld** 🌎
 - 🌱 I’m currently diving into **Machine Learning** and **AI** concepts
-- 👨‍💻 All of my projects are available at [my GitHub Portfolio](https://github.com/Shuence)
+- 👨‍💻 All of my projects are available at [my GitHub Portfolio](https://github.com/Tushar-Shinde31?tab=repositories)
 - 💬 Ask me about **ReactJS**, **NodeJS**, and **Next.js**
 - 📫 Reach me at **tusharshinde2250@gmail.com**
 - 📄 Know about my experiences in my [Resume](https://drive.google.com/drive/folders/your-resume-link)
 - ⚡ Fun fact: I love combining art and code 🎨💻
 
 🌐 Connect with Me:
-[LinkedIn](https://www.linkedin.com/in/tushar-shinde-12345) | [Medium](https://medium.com/@tusharshinde) | [X (Twitter)](https://twitter.com/tushar_shinde)
+[LinkedIn](https://www.linkedin.com/in/tushar-shinde-262335257/) | [Leetcode](https://leetcode.com/u/Tushar-shinde31/) | [X (Twitter)](https://twitter.com/tushar_shinde)
 
 ---
 
