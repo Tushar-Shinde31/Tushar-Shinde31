@@ -10,7 +10,7 @@ A Programming Enthusiast 💫
 - ⚡ Fun fact: I love combining art and code 🎨💻
 
 🌐 Connect with Me:
-[LinkedIn](https://www.linkedin.com/in/tushar-shinde-262335257/) | [Instagra](https://www.instagram.com/tusharryaar/profilecard/?igsh=MTZmeTBmZ2MxMWJsdw%3D%3D) | [X (Twitter)](https://twitter.com/tushar_shinde)
+[LinkedIn](https://www.linkedin.com/in/tushar-shinde-262335257/) | [Instagram](https://www.instagram.com/tusharryaar/profilecard/?igsh=MTZmeTBmZ2MxMWJsdw%3D%3D) | [X (Twitter)](https://twitter.com/tushar_shinde)
 
 ---
 
