@@ -5,10 +5,10 @@
 
 <!-- Animated Introduction -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Tushar+Shinde" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Tushar" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Software Developer | AI Enthusiast | Problem Solver</h3>
 
 ---
 
