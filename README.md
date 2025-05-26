@@ -19,6 +19,10 @@
 - 💬 Ask me about **JavaScript**, **TypeScript**, **React**, **Solidity**, **Node.js**, or anything else!
 - 📫 Reach out to me at: [tusharshinde2250@gmail.com](mailto:tusharshinde2250@gmail.com)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coder GIF" width="70%" />
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -26,19 +30,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,solidity,tailwind,html,css,git,github,firebase" alt="Tech Stack" />
 </p>
-
----
-
-### 🌟 Featured Projects
-
-#### 🎬 [MovieVerse](https://github.com/Tushar-Shinde31/MovieVerse)
-A platform to explore trending movies, view ratings, and manage search history using Appwrite. Deployed on Vercel for seamless access.
-
-#### 🧑‍💼 [AI Resume & Cover Letter Builder](https://github.com/Tushar-Shinde31/ai-resume-and-cover-letter-builder)
-An AI-powered tool leveraging Gemini API and Firebase to generate personalized resumes and cover letters effortlessly.
-
-#### 🌐 [Personal Portfolio](https://github.com/Tushar-Shinde31/my-personal-portfolio)
-A self-coded portfolio showcasing my skills and projects, built with React.js and Tailwind CSS. Live at [portfolio-tush.vercel.app](https://portfolio-tush.vercel.app/).
 
 ---
 
