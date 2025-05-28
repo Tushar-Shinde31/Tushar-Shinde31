@@ -35,22 +35,6 @@
 
 ---
 
-### 🧪 Work & Projects
-
-- 🔧 **SymbolsApp (Remote)**  
-  Built 10+ projects, enhanced testing coverage by 25%, and helped reduce UI/UX issues by 30%.
-
-- 🌍 **Elocate** – MERN + MapBox  
-  Platform to reduce global e-waste with real-time recycling updates.
-
-- 🌐 **Travel-World** – MERN Stack  
-  Tour booking site with optimized backend, improved retention by 20%.
-
-- 🤖 **ResuMate** – AI Resume Builder  
-  Gemini API + Firebase-powered app to automate job applications.
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -74,13 +58,15 @@
 
 ### ☕ Support My Work
 
+If you find my work helpful and would like to support me:
+
 <p align="center">
   <a href="https://rzp.io/l/your-link-here" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px; width: 217px;" />
   </a>
 </p>
 
-> _Currently using Razorpay link (or switch to Ko-fi/PayPal if preferred)._
+> _Using Razorpay (preferred for Indian users). Replace the link with your actual payment link._
 
 ---
 
