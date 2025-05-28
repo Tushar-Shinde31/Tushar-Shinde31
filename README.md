@@ -12,14 +12,12 @@
 
 ---
 
-🧠 About Me
-👨‍💻 Currntly Freelance Full Stack Developer at SymbolsApp, Inc.
-💻 Passionate about building scalable SaaS apps, dashboards, and AI-powered tools.
-🧩 Solved 400+ Leetcode problems, strong in DSA and algorithms.
-🎓 Pursuing B.Tech in Artificial Intelligence & Data Science.
-🧠 Tech Enthusiast | Musician | Artist.
+### 🧠 About Me
 
----
+- 🔭 Currently building innovative projects and striving to become a 100x developer.
+- 🌱 Actively learning **React Native** to expand my mobile development skills.
+- 💬 Ask me about **JavaScript**, **TypeScript**, **React**, **Solidity**, **Node.js**, or anything else!
+- 📫 Reach out to me at: [tusharshinde2250@gmail.com](mailto:tusharshinde2250@gmail.com)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coder GIF" width="70%" />
