@@ -14,10 +14,12 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building innovative projects and striving to become a 100x developer.
-- 🌱 Actively learning **React Native** to expand my mobile development skills.
-- 💬 Ask me about **JavaScript**, **TypeScript**, **React**, **Solidity**, **Node.js**, or anything else!
-- 📫 Reach out to me at: [tusharshinde2250@gmail.com](mailto:tusharshinde2250@gmail.com)
+- 👨‍💻 Freelance Full Stack Developer at **SymbolsApp, Inc. (USA)**.
+- 🌱 Learning **React Native** and exploring **AI APIs**.
+- 💻 Passionate about building **scalable SaaS apps**, **dashboards**, and **AI-powered tools**.
+- 🧩 Solved **350+ Leetcode problems**, strong in DSA and algorithms.
+- 🎓 B.Tech in **AI & Data Science**, CSMS College of Engineering (2022–2026).
+- 🧠 Tech Enthusiast | Musician | Artist.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coder GIF" width="70%" />
@@ -28,8 +30,24 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,solidity,tailwind,html,css,git,github,firebase" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,solidity,tailwind,html,css,git,github,docker,mongodb,mysql,postgres,firebase,linux,python" />
 </p>
+
+---
+
+### 🧪 Work & Projects
+
+- 🔧 **SymbolsApp (Remote)**  
+  Built 10+ projects, enhanced testing coverage by 25%, and helped reduce UI/UX issues by 30%.
+
+- 🌍 **Elocate** – MERN + MapBox  
+  Platform to reduce global e-waste with real-time recycling updates.
+
+- 🌐 **Travel-World** – MERN Stack  
+  Tour booking site with optimized backend, improved retention by 20%.
+
+- 🤖 **ResuMate** – AI Resume Builder  
+  Gemini API + Firebase-powered app to automate job applications.
 
 ---
 
@@ -54,12 +72,15 @@
 
 ---
 
-### ☕ Support Me
-
-If you find my work helpful and would like to support me:
+### ☕ Support My Work
 
 <p align="center">
-  <a href="https://x.com/tushaarizz" target="_blank">
+  <a href="https://rzp.io/l/your-link-here" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px; width: 217px;" />
   </a>
 </p>
+
+> _Currently using Razorpay link (or switch to Ko-fi/PayPal if preferred)._
+
+---
+
