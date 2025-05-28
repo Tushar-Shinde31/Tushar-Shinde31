@@ -12,14 +12,14 @@
 
 ---
 
-### 🧠 About Me
+🧠 About Me
+👨‍💻 Currntly Freelance Full Stack Developer at SymbolsApp, Inc.
+💻 Passionate about building scalable SaaS apps, dashboards, and AI-powered tools.
+🧩 Solved 400+ Leetcode problems, strong in DSA and algorithms.
+🎓 Pursuing B.Tech in Artificial Intelligence & Data Science.
+🧠 Tech Enthusiast | Musician | Artist.
 
-- 👨‍💻 Freelance Full Stack Developer at **SymbolsApp, Inc. (USA)**.
-- 🌱 Learning **React Native** and exploring **AI APIs**.
-- 💻 Passionate about building **scalable SaaS apps**, **dashboards**, and **AI-powered tools**.
-- 🧩 Solved **350+ Leetcode problems**, strong in DSA and algorithms.
-- 🎓 B.Tech in **AI & Data Science**, CSMS College of Engineering (2022–2026).
-- 🧠 Tech Enthusiast | Musician | Artist.
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coder GIF" width="70%" />
@@ -30,7 +30,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,solidity,tailwind,html,css,git,github,docker,mongodb,mysql,postgres,firebase,linux,python" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,solidity,tailwind,html,css,git,github,firebase" alt="Tech Stack" />
 </p>
 
 ---
@@ -56,17 +56,14 @@
 
 ---
 
-### ☕ Support My Work
+### ☕ Support Me
 
 If you find my work helpful and would like to support me:
 
 <p align="center">
-  <a href="https://rzp.io/l/your-link-here" target="_blank">
+  <a href="https://x.com/tushaarizz" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px; width: 217px;" />
   </a>
 </p>
 
-> _Using Razorpay (preferred for Indian users). Replace the link with your actual payment link._
-
----
 
