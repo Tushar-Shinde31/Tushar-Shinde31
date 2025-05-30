@@ -14,10 +14,12 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building innovative projects and striving to become a 100x developer.
-- 🌱 Actively learning **React Native** to expand my mobile development skills.
-- 💬 Ask me about **JavaScript**, **TypeScript**, **React**, **Solidity**, **Node.js**, or anything else!
-- 📫 Reach out to me at: [tusharshinde2250@gmail.com](mailto:tusharshinde2250@gmail.com)
+- 🔭 Currently working on innovative projects and striving to become a 100x developer.
+- 🌱 Actively learning **DevOps**, **System Design**, and **Generative AI**.
+- 💪 Becoming more skilled at solving **Data Structures & Algorithms (DSA)** problems.
+- 💬 Feel free to ask me about **JavaScript**, **TypeScript**, **React**, **Solidity**, **Node.js**, or anything else!
+- 📫 You can reach me at: [tusharshinde2250@gmail.com](mailto:tusharshinde2250@gmail.com)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coder GIF" width="70%" />
@@ -54,12 +56,16 @@
 
 ---
 
-### ☕ Support Me
+### 🤝 Let's Connect & Collaborate
 
-If you find my work helpful and would like to support me:
+I'm always open to collaborating on exciting tech projects, open-source contributions, or freelance work.  
+Whether you're building something cool or just want to chat about tech, feel free to reach out!
 
 <p align="center">
-  <a href="https://x.com/tushaarizz" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px; width: 217px;" />
+  <a href="mailto:tusharshinde2250@gmail.com">
+    <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tushar-shinde-262335257/">
+    <img src="https://img.shields.io/badge/Let's Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
