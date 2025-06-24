@@ -37,10 +37,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar-Shinde31&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Shinde31&theme=radical" alt="GitHub Streak" />
-</p>
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tushar-Shinde31&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.demolab.com/?user=Tushar-Shinde31&theme=radical" alt="GitHub Streak" /> </p>
 
 ---
 
