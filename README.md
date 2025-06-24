@@ -69,6 +69,3 @@ Whether you're building something cool or just want to chat about tech, feel fre
     <img src="https://img.shields.io/badge/Let's Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-
-in this redme that github stats failing to load again and again fix that
