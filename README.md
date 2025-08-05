@@ -38,9 +38,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar-Shinde31&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tushar-Shinde31&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Shinde31&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tushar-Shinde31&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Shinde31&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -70,3 +69,15 @@ Whether you're building something cool or just want to chat about tech, feel fre
     <img src="https://img.shields.io/badge/Let's Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+
+here is my github stats
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tushar-Shinde31&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Shinde31&theme=radical" alt="GitHub Streak" />
+</p>
+
+
+its not showing properly my total contribution fix it 
