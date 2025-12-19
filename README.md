@@ -5,29 +5,28 @@
 
 <!-- Animated Introduction -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Tushar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Tushar+Shinde" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Software Developer | AI Enthusiast | Problem Solver</h3>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🔭 Currently working on innovative projects and striving to become a 100x developer.
-- 🌱 Actively learning **DevOps**, **System Design**, and **Generative AI**.
-- 💪 Becoming more skilled at solving **Data Structures & Algorithms (DSA)** problems.
-- 💬 Feel free to ask me about **JavaScript**, **TypeScript**, **React**, **Solidity**, **Node.js**, or anything else!
-- 📫 You can reach me at: [tusharshinde2250@gmail.com](mailto:tusharshinde2250@gmail.com)
-
+- 🔭 Currently working on innovative projects and striving to become a **100x Developer**
+- 🌱 Actively learning **DevOps**, **System Design**, and **Generative AI**
+- 💪 Improving skills in **Data Structures & Algorithms (DSA)**
+- 💬 Ask me about **JavaScript**, **TypeScript**, **React**, **Node.js**, **Solidity**
+- 📫 Reach me at: **[tusharshinde2250@gmail.com](mailto:tusharshinde2250@gmail.com)**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coder GIF" width="70%" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="70%" alt="Coder GIF"/>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,solidity,tailwind,html,css,git,github,docker,mongodb,mysql,postgres,firebase,linux,python" />
@@ -35,31 +34,49 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar-Shinde31&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Shinde31&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tushar-Shinde31&show_icons=true&theme=radical" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Tushar-Shinde31&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Shinde31&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:tusharshinde2250@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tushar-shinde-262335257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-tush.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Tushar-shinde31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://x.com/tushaarizz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:tusharshinde2250@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tushar-shinde-262335257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-tush.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Tushar-shinde31/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://x.com/tushaarizz">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+## 🤝 Let's Collaborate
 
-I'm always open to collaborating on exciting tech projects, open-source contributions, or freelance work.  
-Whether you're building something cool or just want to chat about tech, feel free to reach out!!!
+I'm open to:
+- 🚀 Open-source contributions  
+- 💼 Freelance & internship opportunities  
+- 🤖 AI / Full-Stack / DevOps projects  
+
+Feel free to reach out — let’s build something awesome together! 🔥
 
 <p align="center">
   <a href="mailto:tusharshinde2250@gmail.com">
