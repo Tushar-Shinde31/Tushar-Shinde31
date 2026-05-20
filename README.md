@@ -88,16 +88,13 @@ Aspiring Data Engineer | Building AI Systems with RAG & LLMs
 
 ---
 
-### 🤝 Let's Connect & Collaborate
-
-I'm always open to collaborating on exciting tech projects, open-source contributions, or freelance work.  
-Whether you're building something cool or just want to chat about tech, feel free to reach out!!!
-
 <p align="center">
   <a href="mailto:tusharshinde2250@gmail.com">
     <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tushar-shinde-262335257/">
+
+---
 
 <h3 align="center">
 💡 "Building Data Systems that Power AI Applications"
