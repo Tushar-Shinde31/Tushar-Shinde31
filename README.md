@@ -62,19 +62,6 @@ Aspiring Data Engineer | Building AI Systems with RAG & LLMs
 
 ---
 
-# 📌 Featured Projects
-
-## 🔹 BioBlood-AI
-> AI-based blood group prediction system using fingerprint biometrics with **88.7% accuracy**
-
-## 🔹 Elocate
-> Award-winning E-Waste Management Platform focused on scalable architecture
-
-## 🔹 Social Media Analytics Tool
-> Full-stack analytics platform integrating APIs and dashboards for data-driven insights
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -89,19 +76,28 @@ Aspiring Data Engineer | Building AI Systems with RAG & LLMs
 
 ---
 
-# 🌐 Connect With Me
+### 📫 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
+<p align="center">
+  <a href="mailto:tusharshinde2250@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tushar-shinde-262335257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-tush.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Tushar-shinde31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://x.com/tushaarizz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
+
+### 🤝 Let's Connect & Collaborate
+
+I'm always open to collaborating on exciting tech projects, open-source contributions, or freelance work.  
+Whether you're building something cool or just want to chat about tech, feel free to reach out!!!
+
+<p align="center">
+  <a href="mailto:tusharshinde2250@gmail.com">
+    <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tushar-shinde-262335257/">
 
 <h3 align="center">
 💡 "Building Data Systems that Power AI Applications"
