@@ -21,8 +21,8 @@
 - 📈 Solved **400+ LeetCode Problems**
 - 🌱 Currently learning:
   - Apache Spark
-  - Kafka
-  - Hadoop
+  - PySpark
+  - Azure and Google Cloud Platform
   - LangChain
   - LangGraph
   - Vector Databases
