@@ -1,63 +1,108 @@
-<!-- Visitor Badge -->
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tushar-Shinde31.Tushar-Shinde31" alt="Visitor Badge"/>
-</p>
-
-<!-- Animated Introduction -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Tushar" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">🚀 Software Developer | AI Enthusiast | Problem Solver</h3>
-
----
-
-### 🧠 About Me
-
-- 🔭 Currently working on innovative projects and striving to become a 100x developer.
-- 🌱 Actively learning **DevOps**, **System Design**, and **Generative AI**.
-- 💪 Becoming more skilled at solving **Data Structures & Algorithms (DSA)** problems.
-- 💬 Feel free to ask me about **JavaScript**, **TypeScript**, **React**, **Solidity**, **Node.js**, or anything else!
-- 📫 You can reach me at: [tusharshinde2250@gmail.com](mailto:tusharshinde2250@gmail.com)
-
+<h1 align="center">Hey 👋, I'm Tushar Shinde</h1>
+<h3 align="center">
+Aspiring Data Engineer | Building AI Systems with RAG & LLMs
+</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coder GIF" width="70%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Engineer;Building+Scalable+Data+Pipelines;Generative+AI+%7C+RAG+%7C+LLMs;Spark+%7C+Kafka+%7C+SQL+%7C+Python;LangChain+%7C+LangGraph+%7C+Vector+Databases" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,solidity,tailwind,html,css,git,github,docker,mongodb,mysql,postgres,firebase,linux,python" />
+- 🔭 Currently learning and building in **Data Engineering + Generative AI**
+- ⚡ Passionate about building **scalable data systems** and **AI-powered applications**
+- 🧠 Exploring:
+  - ETL Pipelines
+  - Big Data Processing
+  - RAG Architectures
+  - LLM Applications
+  - Distributed Systems
+- 💡 Interested in combining **Data + AI** to build real-world intelligent systems
+- 🏆 1st Place — **NCISET Hackathon** (*BioBlood-AI*)
+- 📈 Solved **400+ LeetCode Problems**
+- 🌱 Currently learning:
+  - Apache Spark
+  - Kafka
+  - Hadoop
+  - LangChain
+  - LangGraph
+  - Vector Databases
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,sql" />
+</p>
+
+## ⚙️ Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-0A66C2?style=for-the-badge"/>
+</p>
+
+## 🤖 Generative AI
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-5B21B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20DBs-0EA5E9?style=for-the-badge"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+# 📌 Featured Projects
+
+## 🔹 BioBlood-AI
+> AI-based blood group prediction system using fingerprint biometrics with **88.7% accuracy**
+
+## 🔹 Elocate
+> Award-winning E-Waste Management Platform focused on scalable architecture
+
+## 🔹 Social Media Analytics Tool
+> Full-stack analytics platform integrating APIs and dashboards for data-driven insights
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:tusharshinde2250@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tushar-shinde-262335257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-tush.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Tushar-shinde31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://x.com/tushaarizz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tushar-Shinde31&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Shinde31&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Shinde31&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+# 🌐 Connect With Me
 
-I'm always open to collaborating on exciting tech projects, open-source contributions, or freelance work.  
-Whether you're building something cool or just want to chat about tech, feel free to reach out!!!
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 
-<p align="center">
-  <a href="mailto:tusharshinde2250@gmail.com">
-    <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tushar-shinde-262335257/">
-    <img src="https://img.shields.io/badge/Let's Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="mailto:YOURMAIL@gmail.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
 </p>
 
+---
+
+<h3 align="center">
+💡 "Building Data Systems that Power AI Applications"
+</h3>
