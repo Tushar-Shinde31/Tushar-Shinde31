@@ -1,7 +1,4 @@
 <h1 align="center">Hey 👋, I'm Tushar Shinde</h1>
-<h3 align="center">
-Aspiring Data Engineer | Building AI Systems with RAG & LLMs
-</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Engineer;Building+Scalable+Data+Pipelines;Generative+AI+%7C+RAG+%7C+LLMs;Spark+%7C+Kafka+%7C+SQL+%7C+Python;LangChain+%7C+LangGraph+%7C+Vector+Databases" alt="Typing SVG" />
@@ -85,14 +82,6 @@ Aspiring Data Engineer | Building AI Systems with RAG & LLMs
   <a href="https://leetcode.com/u/Tushar-shinde31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://x.com/tushaarizz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
-
----
-
-<p align="center">
-  <a href="mailto:tusharshinde2250@gmail.com">
-    <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tushar-shinde-262335257/">
 
 ---
 
