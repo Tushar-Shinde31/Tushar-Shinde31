@@ -1,77 +1,394 @@
-<h1 align="center">Hey 👋, I'm Tushar Shinde</h1>
+<!-- ========================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Engineer;Building+Scalable+Data+Pipelines;Generative+AI+%7C+RAG+%7C+LLMs;Spark+%7C+Kafka+%7C+SQL+%7C+Python;LangChain+%7C+LangGraph+%7C+Vector+Databases" alt="Typing SVG" />
+<!--       HERO SECTION        -->
+
+<!-- ========================= -->
+
+<div align="center">
+
+# 👋 Hi, I'm Tushar Shinde
+
+### ☁️ Azure Data Engineer | Microsoft Fabric | Databricks | PySpark | SQL
+
+<p>
+  <a href="https://github.com/Tushar-Shinde31">
+    <img src="https://img.shields.io/badge/GitHub-Tushar--Shinde31-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-tush.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm an **Azure Data Engineer** focused on building scalable and reliable data platforms using modern cloud data engineering technologies.
+
+I enjoy turning **raw data → trusted data → analytics-ready data → intelligent insights**.
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    DATA ENGINEERING FLOW                    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Sources → ADF → ADLS Gen2 → Databricks → Delta Lake       │
+│                         ↓                                   │
+│                 Bronze → Silver → Gold                      │
+│                         ↓                                   │
+│              SQL / Power BI / Analytics                     │
+│                         ↓                                   │
+│              RAG / LLM / AI Applications                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 🎯 What I Work With
+
+* ☁️ **Azure Data Engineering**
+* 🔄 **ETL / ELT Pipelines**
+* ⚡ **Apache Spark & PySpark**
+* 🧱 **Databricks & Delta Lake**
+* 🗄️ **ADLS Gen2 & Azure SQL**
+* 🏗️ **Microsoft Fabric & OneLake**
+* 🥉🥈🥇 **Medallion Architecture**
+* 📊 **Dimensional Modeling & Star Schema**
+* 🤖 **RAG, LLMs & Generative AI**
+* 🔗 **LangChain & Vector Databases**
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Data Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/OneLake-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+### ⚡ Big Data & Processing
+
+<p>
+<img src="https://img.shields.io/badge/Databricks-EF3B2D?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
+### 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 📊 Analytics & BI
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-1F4E79?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+### 🤖 AI & Generative AI
+
+<p>
+<img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🏗️ Featured Projects
 
-- 🔭 Currently learning and building in **Data Engineering + Generative AI**
-- ⚡ Passionate about building **scalable data systems** and **AI-powered applications**
-- 🧠 Exploring:
-  - ETL Pipelines
-  - Big Data Processing
-  - RAG Architectures
-  - LLM Applications
-  - Distributed Systems
-- 💡 Interested in combining **Data + AI** to build real-world intelligent systems
-- 🏆 1st Place — **NCISET Hackathon** (*BioBlood-AI*)
-- 📈 Solved **400+ LeetCode Problems**
-- 🌱 Currently learning:
-  - Apache Spark
-  - PySpark
-  - Azure and Google Cloud Platform
-  - LangChain
-  - LangGraph
-  - Vector Databases
+## 🏥 Enterprise Healthcare Data Integration Platform
 
----
+> **End-to-end Azure data engineering platform for transforming raw healthcare data into analytics-ready datasets.**
 
-# 🛠️ Tech Stack
+**Architecture**
 
-## 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,sql" />
-</p>
+```text
+Healthcare Sources
+       │
+       ▼
+Azure Data Factory
+       │
+       ▼
+ADLS Gen2
+       │
+       ▼
+┌───────────────┐
+│    BRONZE     │
+│  Raw Data     │
+└───────┬───────┘
+        ▼
+┌───────────────┐
+│    SILVER     │
+│ Cleansed Data │
+└───────┬───────┘
+        ▼
+┌───────────────┐
+│     GOLD      │
+│ Analytics Data│
+└───────┬───────┘
+        ▼
+ Databricks + PySpark
+        │
+        ▼
+   Delta Lake
+        │
+        ▼
+Fact & Dimension Tables
+```
 
-## ⚙️ Data Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker" />
-</p>
+### 🔑 Key Engineering Work
 
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-0A66C2?style=for-the-badge"/>
-</p>
-
-## 🤖 Generative AI
-<p>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-5B21B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vector%20DBs-0EA5E9?style=for-the-badge"/>
-</p>
-
----
-
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:tusharshinde2250@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tushar-shinde-262335257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-tush.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Tushar-shinde31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://x.com/tushaarizz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+* Built end-to-end data ingestion and transformation pipelines.
+* Implemented **Bronze / Silver / Gold Medallion Architecture**.
+* Developed data cleansing and validation processes.
+* Implemented **incremental data loading**.
+* Standardized schemas and enriched datasets.
+* Designed **fact and dimension tables** using dimensional modeling.
+* Used **Azure Data Factory, ADLS Gen2, Databricks, PySpark and Delta Lake**.
 
 ---
 
-<h3 align="center">
-💡 "Building Data Systems that Power AI Applications"
-</h3>
+## 👥 Customer 360 Data Integration Platform
+
+> **Cloud data platform combining structured data, APIs and business documents with RAG-powered intelligence.**
+
+```text
+Azure SQL ───────┐
+REST APIs ───────┤
+CSV / JSON ──────┤
+Documents ───────┘
+        │
+        ▼
+Azure Data Factory
+        │
+        ▼
+ADLS Gen2
+        │
+        ▼
+Databricks + PySpark
+        │
+        ▼
+Delta Lake
+        │
+        ├──────────────► Customer 360
+        │
+        └──────────────► Star Schema
+                              │
+                              ▼
+                         Analytics
+                              │
+                              ▼
+                    ┌─────────────────┐
+                    │       RAG       │
+                    │  Embeddings +   │
+                    │ Vector Search    │
+                    └────────┬────────┘
+                             ▼
+                    LangChain + Azure OpenAI
+                             │
+                             ▼
+                  Natural Language BI
+```
+
+### 🔑 Key Engineering Work
+
+* Integrated **Azure SQL, REST APIs, CSV, JSON and business documents**.
+* Built incremental ingestion and transformation pipelines.
+* Implemented **Bronze / Silver / Gold** data layers.
+* Developed Customer 360 datasets.
+* Designed **Star Schema** datasets for analytics.
+* Built document retrieval using **RAG, embeddings and vector search**.
+* Integrated **LangChain + Azure OpenAI** for natural-language business intelligence.
+
+---
+
+# 🧠 Data Engineering Architecture
+
+My preferred approach for scalable data platforms:
+
+```text
+                    ┌─────────────────────┐
+                    │   DATA SOURCES      │
+                    │                     │
+                    │ SQL | APIs | Files  │
+                    │ JSON | Documents    │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │  INGESTION LAYER    │
+                    │                     │
+                    │    Azure Data       │
+                    │      Factory        │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │     ADLS GEN2       │
+                    │                     │
+                    │       RAW           │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+              ┌─────────────────────────────────┐
+              │       MEDALLION ARCHITECTURE    │
+              │                                 │
+              │   🥉 Bronze → 🥈 Silver → 🥇 Gold │
+              └────────────────┬────────────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │  DATABRICKS + SPARK │
+                    │      PySpark        │
+                    │                     │
+                    │    Delta Lake       │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   ANALYTICS LAYER   │
+                    │                     │
+                    │ SQL | Power BI      │
+                    │ Star Schema         │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   AI / GENAI LAYER  │
+                    │                     │
+                    │ RAG | LLM | Azure   │
+                    │ OpenAI | LangChain  │
+                    └─────────────────────┘
+```
+
+---
+
+# 📜 Certifications
+
+🏆 **Microsoft Certified: Fabric Data Engineer Associate**
+
+🤖 **Oracle Certified: Agentic AI Certified Foundations Associate**
+
+---
+
+# 🏆 Achievements
+
+| Achievement                 | Highlight                |
+| --------------------------- | ------------------------ |
+| 🥉 i-Nnovate Hackathon 2023 | **Top 3**                |
+| 💰 Hackathon Award          | **₹30,000**              |
+| 💻 LeetCode                 | **400+ Problems Solved** |
+| 📈 College Ranking          | **Top 5%**               |
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tushar-Shinde31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Shinde31&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tushar-Shinde31&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 📊 What I'm Currently Working On
+
+```text
+🔹 Building scalable Azure data pipelines
+🔹 Improving PySpark & Databricks expertise
+🔹 Exploring Microsoft Fabric & OneLake
+🔹 Building RAG-based applications
+🔹 Connecting Data Engineering with Generative AI
+🔹 Preparing production-ready data architectures
+```
+
+---
+
+# 🌱 Currently Learning
+
+**Microsoft Fabric**
+`OneLake` • `Data Factory` • `Lakehouse` • `Warehouse`
+
+**Advanced Data Engineering**
+`Spark Optimization` • `Delta Lake` • `Incremental Processing` • `Data Quality`
+
+**Generative AI**
+`RAG` • `Vector Search` • `LLM Applications` • `AI + Data Engineering`
+
+---
+
+# 💡 My Engineering Philosophy
+
+> **"Build the data foundation first. Then build intelligence on top of it."**
+
+I believe great AI systems start with **clean, reliable, well-modeled data**.
+
+That's why I'm particularly interested in the intersection of:
+
+**☁️ Cloud Data Engineering + ⚡ Big Data + 🤖 Generative AI**
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in opportunities involving:
+
+**Azure Data Engineering • Microsoft Fabric • Databricks • PySpark • SQL • Data Platforms • RAG • Generative AI**
+
+<div align="center">
+
+<a href="mailto:tusharshinde2250@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-tush.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=Tushar-Shinde31&style=for-the-badge&color=blue" alt="Profile Views"/>
+
+</div>
