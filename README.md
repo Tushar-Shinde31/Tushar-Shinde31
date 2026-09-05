@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<img src="https://https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="GitHub Contribution Animation"/>
 
 </div>
 
