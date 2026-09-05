@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="GitHub Contribution Animation"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="GitHub Contribution Animation" width="500"/>
 
 </div>
 
@@ -130,18 +130,6 @@ I enjoy turning **raw data → trusted data → analytics-ready data → intelli
 | 💰 Hackathon Award          | **₹30,000**              |
 | 💻 LeetCode                 | **400+ Problems Solved** |
 | 📈 College Ranking          | **Top 5%**               |
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tushar-Shinde31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Shinde31&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
